@@ -1,0 +1,1 @@
+Dead simple CLI AI agent which pulls from the OpenAI API. Supply API key using "apikey" file in same dir, run using python, and boost productivity!
